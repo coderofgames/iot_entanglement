@@ -8,7 +8,7 @@ The structure includes a main server, a network of devices, and
 a an internet connection, a cell phone with network access, and remote web access.
 
    
-The phone will acess the security server on tge network. The sever will issue the phone
+The phone will acess the security server on the network. The sever will issue the phone
 with a set of encryption keys, block chains, etc.
    
 The phone will then disconnect from the network and can be carried to a remote
