@@ -20,7 +20,7 @@ able to trivially decode the shared information.
 
 ### Project plan.   
    
--the bulk of the project can be built in php.
--the main issue is the mobile apps real security and privacy.
+- the bulk of the project can be built in php.
+- the main issue is the mobile apps real security and privacy.
 - the mobile app may have to be a web app which also suffers from security issues
 - post messages may be less secure than a tcp/ip link for exanple.
