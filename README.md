@@ -4,8 +4,8 @@ Security app
 This repository will contain a suite of security tools
 for the purpose of iot remote monitoring.
    
-The structure includes a main server, a network of devices, and 
-a an internet connection, a cell phone with network access, and remote web access.
+The structure includes a web server, security server, network of devices, and 
+ an internet connection. Also a cell phone with network access, and remote web access.
 
    
 The phone will acess the security server on the network. The sever will issue the phone
@@ -18,7 +18,7 @@ encrption can then pass through the internet to the security netwrok
 and visa versa. The web host - i.e. AWS, will not be
 able to trivially decode the shared information.
 
-###Project plan.   
+### Project plan.   
    
 -the bulk of the project can be built in php.
 -the main issue is the mobile apps real security and privact.
